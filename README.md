@@ -1,28 +1,9 @@
 ### Hi there 👋
 
 
+I'm working on [Helium Universal](https://github.com/HeliumUniversal)
 
-```java
+My favorite language is C++ and Java
 
-
-package net.enriquitomc.mods.helium.playermod
-
-import org.ivonmc.latex.player.Player;
-
-
-
-public class PlayerMod extends ModStart{
-
-
-public static final Player PLAYER = new Player();
-
-
-public static final Location getLocation(){
-
-
-return player.getCountry().getName().getState();
-}
-
-
-}
+My favorite game is GD and Minecraft
 
